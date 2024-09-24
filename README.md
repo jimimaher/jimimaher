@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://itnext.io/radical-candor-software-edition-d4b5ad401be3
+
 <!--
 **jimimaher/jimimaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
