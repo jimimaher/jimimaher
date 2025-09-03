@@ -1,0 +1,121 @@
+{
+  "debug.javascript.autoAttachFilter": "disabled",
+  "diffEditor.maxComputationTime": 0,
+  "editor.accessibilitySupport": "off",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorWidth": 10,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "all",
+  "editor.stickyScroll.enabled": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "explorer.autoRevealExclude": {
+    "**/bower_components": true,
+    "**/node_modules": false
+  },
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": false,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "**/Thumbs.db": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "githubPullRequests.pullBranch": "never",
+  "githubPullRequests.terminalLinksHandler": "github",
+  "gitlens.advanced.messages": {
+    "suppressFileNotUnderSourceControlWarning": true,
+    "suppressLineUncommittedWarning": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "search.exclude": {
+    "**/node_modules/**": true,
+    "**/*.log": true,
+    "**/*.map": true,
+    "**/*.xml": true,
+    "**/*dist/**": true,
+    "**/*info": true,
+    "**/*js.html": true,
+    "**/*tsx.html": true,
+    "**/*junit.xml": true,
+    "**/*lib*commonjs/**": true,
+    "**/*lib/**": true,
+    "**/*ts.html": true,
+    "**/.next/**": true,
+    "**/temp/**": true,
+    "**/tmp/**": true,
+    "*cache*": true,
+    ".git": true
+  },
+  "security.promptForLocalFileProtocolHandling": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.scrollback": 10000,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vim.cursorStylePerMode.insert": "block",
+  "vim.cursorStylePerMode.normal": "block-outline",
+  "vim.statusBarColors.visual": ["#3a0071", "red"],
+  "window.zoomLevel": 2,
+  "workbench.activityBar.location": "top",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#79bb430c",
+    "editor.selectionBackground": "#1d64fc",
+    "terminal.border": "#575757"
+  },
+  "workbench.startupEditor": "none",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "prettier.enableDebugLogs": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "makefile.configureOnOpen": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "githubPullRequests.createOnPublishBranch": "never",
+  "[terraform]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "hashicorp.terraform",
+    "editor.tabSize": 2 // optionally
+  },
+  "[terraform-vars]": {
+    "editor.tabSize": 2 // optionally
+  },
+  "editor.minimap.enabled": false,
+  "[yaml]": {
+    "diffEditor.ignoreTrimWhitespace": false
+  },
+  "workbench.colorTheme": "Night Owl",
+  "[typescriptreact]": {},
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.editor.enablePreview": false,
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "redhat.telemetry.enabled": false,
+  "update.showReleaseNotes": false,
+  "github.copilot.nextEditSuggestions.enabled": true
+  // "kotlin.languageServer.watchFiles": [
+  //   "**/*.kt",
+  //   "**/*.kts",
+  //   "**/*.java",
+  //   "**/pom.xml",
+  //   "**/build.gradle",
+  //   "**/settings.gradle"
+  // ],
+}
