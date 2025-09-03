@@ -1,35 +1,48 @@
-// Place your key bindings in this file to override the defaultsauto[]
+// Place your key bindings in this file to override the defaults
 [
-  {
-    "key": "cmd+j cmd+r",
-    "command": "workbench.action.positionPanelRight"
-  },
-  {
-    "key": "cmd+j cmd+b",
-    "command": "workbench.action.positionPanelBottom"
-  },
-  {
-    "key": "cmd+j cmd+j",
-    "command": "workbench.action.togglePanel"
-  },
-  {
-    "key": "cmd+j",
-    "command": "-workbench.action.togglePanel"
-  },
-  {
-    "key": "ctrl+shift+alt+cmd+t",
-    "command": "typescript.restartTsServer"
-  },
-  {
-    "key": "ctrl+shift+alt+cmd+e",
-    "command": "eslint.restart"
-  },
-  {
-    "key": "cmd+i",
-    "command": "composerMode.agent"
-  },
-  {
-    "key": "cmd+e",
-    "command": "composerMode.background"
-  }
+    {
+        "key": "cmd+i",
+        "command": "composerMode.agent"
+    },
+    {
+        "key": "cmd+e",
+        "command": "composerMode.background"
+    },
+    {
+        "key": "cmd+e",
+        "command": "composerMode.background"
+    },
+    {
+      "key": "cmd+j cmd+r",
+      "command": "workbench.action.positionPanelRight"
+    },
+    {
+      "key": "cmd+j cmd+b",
+      "command": "workbench.action.positionPanelBottom"
+    },
+    {
+      "key": "cmd+j cmd+j",
+      "command": "workbench.action.togglePanel"
+    },
+    {
+      "key": "cmd+j",
+      "command": "-workbench.action.togglePanel"
+    },
+    {
+      "key": "ctrl+shift+alt+cmd+t",
+      "command": "typescript.restartTsServer"
+    },
+    {
+      "key": "ctrl+shift+alt+cmd+e",
+      "command": "eslint.restart"
+    },
+    {
+      "key": "cmd+i",
+      "command": "composerMode.agent"
+    },
+    {
+      "key": "cmd+e",
+      "command": "composerMode.background"
+    }
+  ]
 ]
