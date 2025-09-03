@@ -75,9 +75,10 @@
   "window.zoomLevel": 2,
   "workbench.activityBar.location": "top",
   "workbench.colorCustomizations": {
-    "editor.lineHighlightBackground": "#79bb430c",
-    "editor.selectionBackground": "#1d64fc",
-    "terminal.border": "#575757"
+    // "editor.lineHighlightBackground": "#79bb430c",
+    // "editor.selectionBackground": "#1d64fc",
+    "terminal.border": "#575757",
+    "panel.border": "#7810ff"
   },
   "workbench.startupEditor": "none",
   "github.copilot.editor.enableAutoCompletions": true,
@@ -100,7 +101,7 @@
   "[yaml]": {
     "diffEditor.ignoreTrimWhitespace": false
   },
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Palenight Italic",
   "[typescriptreact]": {},
   "git.openRepositoryInParentFolders": "never",
   "workbench.editor.enablePreview": false,
