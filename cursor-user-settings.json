@@ -75,8 +75,6 @@
   "window.zoomLevel": 2,
   "workbench.activityBar.location": "top",
   "workbench.colorCustomizations": {
-    // "editor.lineHighlightBackground": "#79bb430c",
-    // "editor.selectionBackground": "#1d64fc",
     "terminal.border": "#575757",
     "panel.border": "#7810ff"
   },
@@ -92,10 +90,10 @@
   "[terraform]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "hashicorp.terraform",
-    "editor.tabSize": 2 // optionally
+    "editor.tabSize": 2 
   },
   "[terraform-vars]": {
-    "editor.tabSize": 2 // optionally
+    "editor.tabSize": 2 
   },
   "editor.minimap.enabled": false,
   "[yaml]": {
@@ -111,12 +109,4 @@
   "redhat.telemetry.enabled": false,
   "update.showReleaseNotes": false,
   "github.copilot.nextEditSuggestions.enabled": true
-  // "kotlin.languageServer.watchFiles": [
-  //   "**/*.kt",
-  //   "**/*.kts",
-  //   "**/*.java",
-  //   "**/pom.xml",
-  //   "**/build.gradle",
-  //   "**/settings.gradle"
-  // ],
 }
